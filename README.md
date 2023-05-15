@@ -1,1 +1,1 @@
-The official Megengine code will be released before April 10.
+The official Megengine code will be released.
