@@ -1,0 +1,15 @@
+save_dir: ./saved_models
+save_name: fullflex_cifar100
+overwrite: True
+num_labels: 400
+net: WideResNet
+net_from_name: False
+seed: 2
+depth: 28
+widen_factor: 8
+leaky_slope: 0.1
+weight_decay: 0.001
+data_dir: ./data
+dataset: cifar100
+num_classes: 100
+npus: 8
