@@ -1,5 +1,4 @@
 # FullMatch
----
 
 **Boosting Semi-supervised Learning by Exploiting All Unlabeled Data**
 
@@ -13,11 +12,11 @@ This repo is the Megengine implementation of FullMatch. The Pytorch implementati
 
 1. Install MegEngine (version==1.12.2/1.12.3)
 
-2. For training FullMatch, e.g.,:
+2. For training FullMatch:
 ```bash
 python fullmatch.py --c config/fullmatch/fullmatch_cifar100.yaml
 ```
-3. For training FullFlex, e.g.,:
+3. For training FullFlex:
 ```bash
 python fullflex.py --c config/fullflex/fullflex_cifar100.yaml
 ```
