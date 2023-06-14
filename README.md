@@ -30,7 +30,7 @@ We thanks the [TorchSSL](https://github.com/TorchSSL/TorchSSL) project for refer
 
 ### Log & Models
 
-We'll upload them within a week.
+All origin train logs and models are in this [link](https://drive.google.com/drive/folders/13QnfCleWEoa1SgMl2s2-wLwc_wWSElsE)
 
 ### Liscense
 FullMatch is released under the Apache 2.0 license. See [LICENSE](license) for details.
