@@ -24,7 +24,7 @@ python fullflex.py --c config/fullflex/fullflex_cifar100.yaml
 
 ### Note
 
-Since the official Megengine does not support many classification benchmarks (e.g., SVHN, STL10), we will release them in the Pytorch implementation.
+Since the official Megengine does not support many classification benchmarks (e.g., SVHN, STL10)
 
 We thanks the [TorchSSL](https://github.com/TorchSSL/TorchSSL) project for reference.
 
