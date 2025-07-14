@@ -30,7 +30,7 @@ We thanks the [TorchSSL](https://github.com/TorchSSL/TorchSSL) project for refer
 
 ### Log & Models
 
-All origin train logs and models are in this [link](https://drive.google.com/drive/folders/13QnfCleWEoa1SgMl2s2-wLwc_wWSElsE)
+All origin train logs and models are in this [link](https://drive.google.com/drive/folders/13QnfCleWEoa1SgMl2s2-wLwc_wWSElsE) (pytorch framework), and this code can produce the similar performance based on megengine framework.
 
 ### Liscense
 FullMatch is released under the Apache 2.0 license. See [LICENSE](license) for details.
