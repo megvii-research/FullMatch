@@ -6,7 +6,7 @@ Yuhao Chen, Xin Tan, Borui Zhao, Zhaowei Chen, Renjie Song, Jiajun Liang, Xuequa
 
 CVPR 2023, [Arxiv](https://arxiv.org/abs/2303.11066)
 
-This repo is the Megengine implementation of FullMatch. The Pytorch implementation will be released soon.
+This repo is the Megengine implementation of FullMatch.
 
 ### Experiment
 
